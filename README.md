@@ -31,20 +31,22 @@
 - [ ] [《王阳明的五百年》](https://item.jd.com/10029139837549.html)@余怀彦
 - [ ] [《良知之道：王阳明的五百年》](https://item.jd.com/71933377357.html)@余怀彦
 - [ ] [《阳明心学得失论》]()@章太炎等
+- [ ] [《阳明大传》](https://item.jd.com/12799144.html)@束景南
 
 ## 03-阳明先生音频
 
 ## 04-阳明先生画像
 
-- [ ] [《阳明先生图谱》]()
+- [ ] [《阳明先生图谱》](http://www.bookinlife.net/book-49632.html)@邹守益
 - [ ] [《阳明先生遗像册》]()
+- [ ] [《新建伯贈侯王文成公像》](https://zh.wikipedia.org/wiki/File:%E7%8E%8B%E5%AE%88%E4%BB%81.jpg)@沈俊
 
 ## 05-阳明先生诗词
 
 - [ ] [《狱中诗十四首》]()
 - [ ] [《赴谪诗五十五首》](http://www.360doc.com/content/16/0512/07/1383524_558404383.shtml)
 - [ ] [《泛海》]()
-- [ ] [《王阳明四句教》]()
+- [ ] [《王阳明四句教》](https://github.com/0e0w/WangYangMing/blob/main/05-%E9%98%B3%E6%98%8E%E5%85%88%E7%94%9F%E8%AF%97%E8%AF%8D/%E3%80%8A%E7%8E%8B%E9%98%B3%E6%98%8E%E5%9B%9B%E5%8F%A5%E6%95%99%E3%80%8B.md)
 - https://so.gushiwen.org/authors/authorvsw_e8d2cec3ffbeA1.aspx
 
 ## 06-阳明先生故居
